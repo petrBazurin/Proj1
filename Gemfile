@@ -30,7 +30,8 @@ gem 'sqlite3'
 #   gem 'webrat'
 # end
 
-gem 'rspec-rails', '2.3.1'
-gem 'autotest-rails-pure', '4.1.2'
+  gem 'rspec-rails', '2.3.1'
+  gem 'autotest-rails-pure', '4.1.2'
 # gem 'autotest-fsevent', '0.2.4'
 # gem 'autotest-growl', '0.2.9'
+  gem 'spork', '0.9.0.rc4'
