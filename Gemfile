@@ -29,3 +29,8 @@ gem 'sqlite3'
 # group :development, :test do
 #   gem 'webrat'
 # end
+
+gem 'rspec-rails', '2.3.1'
+gem 'autotest-rails-pure', '4.1.2'
+# gem 'autotest-fsevent', '0.2.4'
+# gem 'autotest-growl', '0.2.9'
