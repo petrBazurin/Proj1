@@ -732,3 +732,9 @@ Started GET "/pages/contact" for 127.0.0.1 at 2011-03-24 17:50:57 +0200
   Processing by PagesController#contact as HTML
 Rendered pages/contact.html.erb within layouts/application (2.5ms)
 Completed 200 OK in 9ms (Views: 8.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/home" for 127.0.0.1 at 2011-03-25 15:28:22 +0200
+  Processing by PagesController#home as HTML
+Rendered pages/home.html.erb within layouts/application (1.9ms)
+Completed 200 OK in 36ms (Views: 35.4ms | ActiveRecord: 0.0ms)
